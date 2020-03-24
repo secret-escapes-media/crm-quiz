@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+{% assign question = site.data.answers | where: 'id', page.id | first %}
+
+<div class="response response--wrong">
+  <div class="response__img">
+    <img src="{{site.img}}/icons/wrong.svg" alt="Cross icon">
+  </div>
+  <div class="response__text">
+    <p>Tough luck, you picked the wrong answer</p>
+  </div>
+</div>
+
+<div class="space--xxxl"></div>
+
+<div class="width width--xl">
+  <h1><span class="title-sans title-sans--xs">{{question.pre}}</span> <span class="title title--xxxxl vpad--sm">{{question.answer}}</span></h1>
+  <div class="vpad--sm">
+    <div class="bg-img bg-img--3-2" style="background-image: url('{{question.image}}')"></div>
+  </div>
+  <p class="text--xxl">{{question.description}}</p>
+</div>

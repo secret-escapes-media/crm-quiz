@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include page/head.html %}
+
+  <body class="no-js bg--dark text--white">
+
+    {% include components/tracking.html %}
+
+    <div class="content-spacing section-spacing">
+      <div class="container vpad--xxl text--center">
+        {{ content }}
+      </div>
+    </div>
+
+    <div class="bg--promo">
+      <div class="container vpad--xxxl">
+        <div class="width width--md text--center">
+          <div class="icon-hr">
+            <img src="{{site.img}}/icons/se-icon.svg" alt="Secret Escapes icon">
+          </div>
+          <h2 class="title title--md">Save up to 60% on luxury hotels and holidays</h2>
+          <div class="vpad--sm">
+            <a href="{{site.core-se-link}}" class="btn btn--orange">See Current Sales</a>
+          </div>
+          <div class="space--sm"></div>
+          <div class="width" style="max-width: 220px;">
+            <div class="row row--constant-4-4-4 ">
+              <div class="col">
+                <a href="#Facebook-link">
+                  <img src="{{site.img}}/icons/social-facebook.svg" alt="Facebook icon">
+                </a>
+              </div>
+              <div class="col">
+                <a href="#Instagram-link">
+                  <img src="{{site.img}}/icons/social-instagram.svg" alt="Instagram icon">
+                </a>
+              </div>
+              <div class="col">
+                <a href="#twitter-link">
+                  <img src="{{site.img}}/icons/social-twitter.svg" alt="Twitter icon">
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </body>
+
+</html>

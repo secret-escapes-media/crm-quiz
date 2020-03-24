@@ -1,0 +1,21 @@
+# Site settings
+title: The SE Quiz
+core-se-link: https://www.secretescapes.com/current-sales
+description: >
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus rerum, quas tenetur numquam inventore sed labore facilis, necessitatibus amet ea quam, omnis optio at debitis officia earum ipsa iste? Inventore. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus rerum, quas tenetur numquam inventore sed labore facilis, necessitatibus amet ea quam, omnis optio at debitis officia earum ipsa iste? Inventore.
+
+# file paths
+url:     "https://mp.secretescapes.com" # the base hostname & protocol for your site
+baseurl: "/the-se-quiz" # the subpath of the site, including territory and year
+img:     "/the-se-quiz/_assets/img"
+css:     "/the-se-quiz/_assets/css"
+js:      "/the-se-quiz/_assets/js"
+
+
+# Build settings
+markdown: kramdown
+exclude: [node_modules, gulpfile.js, package.json, package-lock.json, js/script.js]
+keep_files: [_assets]
+sass:
+    sass_dir: css
+    style: compressed
