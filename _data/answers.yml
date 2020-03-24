@@ -1,23 +1,29 @@
-- id: bunny
-  pre: Bunny Island can be found in...
-  answer: Japan
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Okunojima-rabbit.JPG/800px-Okunojima-rabbit.jpg
-  description: Ōkunoshima is a small island in the Inland Sea of Japan in the city of Takehara, Hiroshima Prefecture. It is accessible by ferry from Tadanoumi and Ōmishima. There are campsites, walking trails and places of historical interest on the island.
+- id: smiles
+  pre: The Southeast Asian country nicknamed the "Land of Smiles" is...
+  answer: Thaïlande
+  image: https://images.unsplash.com/photo-1528181304800-259b08848526?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+  description: La Thaïlande est souvent appelée le Pays du Sourire, un surnom bien mérité puisque les habitants ont élaboré un véritable art de la communication basée autour du sourire. On dénombre pas moins de 13 sourires (ou Yims) qui expriment chacun une émotion différente. Frustration, bonheur, gêne, tristesse... Un langage aux multiples significations qui sera difficile pour nous d’interpréter !
+  blog:
+    title: Quelles sont les destinations incontournables d’Asie du sud-est
+    image: https://blog.evasionssecretes.fr/wp-content/uploads/2019/12/iStock-481873894.jpg
+    link: https://blog.evasionssecretes.fr/evasions/quelles-sont-les-destinations-incontournables-dasie-du-sud-est/
 
-- id: expensive
-  pre: The world's most expensive flight is between New York and...
-  answer: Mumbai
-  image: https://images.unsplash.com/photo-1562080970-98f06a091a9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80
-  description: New York to Mumbai on United is 7,807 miles and 16 hours. With an estimated 18.4 million inhabitants and a sprawling greater metro area that covers a whopping 1,680 square miles, it's little wonder that Indian Mumbai (or Bombay, if you prefer) is the daunting mix of creed, culture, post-colonial constructions, Mughal palaces and thriving marketplaces that it is; an undisputed must on the traveler's trail through the subcontinent.
+- id: petite
+  pre: The Petite France district located in...
+  answer: Strasbourg
+  image: https://images.unsplash.com/photo-1563783615689-36214e990fca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+  description: Classée au Patrimoine mondial de l'UNESCO, la Petite France est le quartier le plus pittoresque de la vieille ville de Strasbourg. Pêcheurs, meuniers et tanneurs ont jadis vécu et travaillé dans cette partie de la ville où les magnifiques maisons à colombages du XVIe frangent les rives des cours d'eau.
+  blog:
+    title: Que faire à Strasbourg en trois jours ? Notre programme idéal !
+    image: https://blog.evasionssecretes.fr/wp-content/uploads/2020/02/GettyImages-511920433-1024x768.jpg
+    link: https://blog.evasionssecretes.fr/evasions/que-faire-a-strasbourg-en-trois-jours-notre-programme-ideal/
 
-- id: youngest
-  pre: The youngest country in Europe is...
-  answer: Kosovo
-  image: https://images.unsplash.com/photo-1580046818062-ff880ca4c98d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80
-  description: Kosovo declared independence from Serbia on 17 February 2008. Kosovo is landlocked in the center of the Balkans and bordered by the uncontested territory of Serbia to the north and east, North Macedonia to the southeast, Albania to the southwest and
-
-- id: coastline
-  pre: The country with the largest coastline in the world is...
-  answer: Canada
-  image: https://images.unsplash.com/photo-1504658119593-fa5a422034db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1491&q=80
-  description: The Canada coastline is approximately 151,019 miles long, the longest coastline in the world. The province of Newfoundland & Labrador has the longest coastline in Canada. Canada; Canada is the northernmost country in North America and shares a border with the contiguous US to the south.
+- id: pamplemousse
+  pre: The famous Pamplemousses Garden is found on...
+  answer: L'Île Maurice
+  image: https://images.unsplash.com/photo-1550699148-3667307b6f54?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+  description: L’île Maurice est un tout petit coin de paradis flottant au milieu de l’océan Indien réputé pour ses plages idylliques, son folklore épique et ses jungles luxuriantes mais elle a beaucoup plus à offrir ! Explorez tous les trésors de cette perle paradisiaque en parcourant notre article de blog, belle évasion !
+  blog:
+    title: Les 7 perles de l’île Maurice à voir absolument
+    image: https://blog.evasionssecretes.fr/wp-content/uploads/2019/09/Cap-Malheureux-Mauritius-chapel-666085806.jpg
+    link: https://blog.evasionssecretes.fr/evasions/quelles-sont-les-destinations-incontournables-dasie-du-sud-est/
