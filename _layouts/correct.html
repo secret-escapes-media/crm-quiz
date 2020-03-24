@@ -22,3 +22,7 @@ layout: default
   </div>
   <p class="text--xxl">{{question.description}}</p>
 </div>
+
+{% if question.blog %}
+  {% include components/blog-link.html blog=question.blog %}
+{% endif %}
