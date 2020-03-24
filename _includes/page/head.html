@@ -9,7 +9,7 @@
 
   <!-- page meta title -->
   {% assign question = site.data.answers | where: 'id', page.id | first %}
-  {% assign meta-title = site.title | append: ' | ' | append: question.pre %}
+  {% assign meta-title = site.title | append: ' | ' | append: question.pre | escape %}
 
   <!-- social image -->
   {% assign social-image-url = site.url | append: site.img | append: '/thumbnail/social.jpg' %}
