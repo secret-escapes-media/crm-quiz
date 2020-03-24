@@ -22,7 +22,7 @@ function cleanAssets() {
 
 // start browserSync local server and show under site subdirectory
 function browserSyncServe() {
-  const baseurl = '/the-se-quiz';
+  const baseurl = '/the-se-quiz/fr';
   browserSync.init({
     baseDir: '_site/',
     ui: false,

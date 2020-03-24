@@ -1,15 +1,15 @@
 # Site settings
 title: The SE Quiz
-core-se-link: https://www.secretescapes.com/current-sales
+core-se-link: https://www.evasionssecretes.fr/vente-promotion
 description: >
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus rerum, quas tenetur numquam inventore sed labore facilis, necessitatibus amet ea quam, omnis optio at debitis officia earum ipsa iste? Inventore. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus rerum, quas tenetur numquam inventore sed labore facilis, necessitatibus amet ea quam, omnis optio at debitis officia earum ipsa iste? Inventore.
 
 # file paths
 url:     "https://mp.secretescapes.com" # the base hostname & protocol for your site
-baseurl: "/the-se-quiz" # the subpath of the site, including territory and year
-img:     "/the-se-quiz/_assets/img"
-css:     "/the-se-quiz/_assets/css"
-js:      "/the-se-quiz/_assets/js"
+baseurl: "/the-se-quiz/fr" # the subpath of the site, including territory and year
+img:     "/the-se-quiz/fr/_assets/img"
+css:     "/the-se-quiz/fr/_assets/css"
+js:      "/the-se-quiz/fr/_assets/js"
 
 
 # Build settings
