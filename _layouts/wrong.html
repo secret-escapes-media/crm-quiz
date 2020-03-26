@@ -18,7 +18,7 @@ layout: default
 <div class="width width--xl">
   <h1><span class="title-sans title-sans--xs">{{question.pre}}</span> <span class="title title--xxxxl vpad--sm">{{question.answer}}</span></h1>
   <div class="vpad--sm">
-    <div class="bg-img bg-img--3-2" style="background-image: url('{{question.image}}')"></div>
+    <div class="bg-img bg-img--3-2" style="background-image: url('{{question.image | liquify}}')"></div>
   </div>
   <p class="text--xxl">{{question.description}}</p>
 </div>
