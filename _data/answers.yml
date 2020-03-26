@@ -11,7 +11,7 @@
 - id: petite
   pre: The Petite France district located in...
   answer: Strasbourg
-  image: https://images.unsplash.com/photo-1563783615689-36214e990fca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+  image: "{{site.img}}/answers/petite.jpg"
   description: Classée au Patrimoine mondial de l'UNESCO, la Petite France est le quartier le plus pittoresque de la vieille ville de Strasbourg. Pêcheurs, meuniers et tanneurs ont jadis vécu et travaillé dans cette partie de la ville où les magnifiques maisons à colombages du XVIe frangent les rives des cours d'eau.
   blog:
     title: Que faire à Strasbourg en trois jours ? Notre programme idéal !
@@ -21,7 +21,7 @@
 - id: pamplemousse
   pre: The famous Pamplemousses Garden is found on...
   answer: L'Île Maurice
-  image: https://images.unsplash.com/photo-1550699148-3667307b6f54?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+  image: "{{site.img}}/answers/pamplemousse.jpg"
   description: L’île Maurice est un tout petit coin de paradis flottant au milieu de l’océan Indien réputé pour ses plages idylliques, son folklore épique et ses jungles luxuriantes mais elle a beaucoup plus à offrir ! Explorez tous les trésors de cette perle paradisiaque en parcourant notre article de blog, belle évasion !
   blog:
     title: Les 7 perles de l’île Maurice à voir absolument
